@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-open-sans: "Open Sans";
+  --font-id-grotesk: "ID Grotesk";
+  --font-space-grotesk: "Space Grotesk";
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-10xl: 29px;
+  --font-size-29xl: 48px;
+  --font-size-5xl: 24px;
+  --font-size-lgi: 19px;
+  --font-size-xl: 20px;
+  --font-size-19xl: 38px;
+  --font-size-4xl: 23px;
+  --font-size-11xl: 30px;
+  --font-size-lg: 18px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-darkslategray: #032b44;
+  --color-gold: #ffc107;
+  --color-slategray: #365e78;
+  --color-black: #000;
+
+  /* Gaps */
+  --gap-29xl: 48px;
+  --gap-5xl: 24px;
+  --gap-mini: 15px;
+  --gap-2xl-3: 21.3px;
+  --gap-mid: 17px;
+  --gap-xl: 20px;
+
+  /* Paddings */
+  --padding-27xl: 46px;
+  --padding-10xl: 29px;
+  --padding-xl: 20px;
+  --padding-11xl: 30px;
+  --padding-4xs: 9px;
+  --padding-3xl: 22px;
+  --padding-10xs: 3px;
+  --padding-base-4: 16.4px;
+  --padding-smi: 13px;
+  --padding-4xl: 23px;
+  --padding-sm: 14px;
+  --padding-12xl: 31px;
+  --padding-xs: 12px;
+  --padding-8xl: 27px;
+  --padding-11xs: 2px;
+
+  /* Border radiuses */
+  --br-xl: 20px;
+  --br-31xl: 50px;
+}
